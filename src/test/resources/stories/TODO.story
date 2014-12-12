@@ -20,3 +20,5 @@ And open 'any' item
 Given user on the 'HomePage' page
 Then this product in the recent view pool
 
+:)
+
